@@ -20,3 +20,4 @@
 /home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Communication/obj/Debug/net8.0/refint/Journey.Communication.dll
 /home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Communication/obj/Debug/net8.0/Journey.Communication.pdb
 /home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Communication/obj/Debug/net8.0/ref/Journey.Communication.dll
+/home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Communication/obj/Debug/net8.0/Journey.Communication.sourcelink.json

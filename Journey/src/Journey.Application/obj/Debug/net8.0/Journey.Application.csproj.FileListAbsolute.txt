@@ -36,3 +36,4 @@
 /home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Application/obj/Debug/net8.0/refint/Journey.Application.dll
 /home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Application/obj/Debug/net8.0/Journey.Application.pdb
 /home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Application/obj/Debug/net8.0/ref/Journey.Application.dll
+/home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Application/obj/Debug/net8.0/Journey.Application.sourcelink.json

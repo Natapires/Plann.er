@@ -20,3 +20,4 @@
 /home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Exception/obj/Debug/net8.0/refint/Journey.Exception.dll
 /home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Exception/obj/Debug/net8.0/Journey.Exception.pdb
 /home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Exception/obj/Debug/net8.0/ref/Journey.Exception.dll
+/home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Exception/obj/Debug/net8.0/Journey.Exception.sourcelink.json

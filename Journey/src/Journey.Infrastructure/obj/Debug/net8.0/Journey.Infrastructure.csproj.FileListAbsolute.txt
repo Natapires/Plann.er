@@ -22,3 +22,4 @@
 /home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/refint/Journey.Infrastructure.dll
 /home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.pdb
 /home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/ref/Journey.Infrastructure.dll
+/home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.sourcelink.json

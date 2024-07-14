@@ -164,3 +164,4 @@
 /home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Journey.Api.props
 /home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Api/obj/Debug/net8.0/staticwebassets.pack.json
 /home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Api/obj/Debug/net8.0/scopedcss/bundle/Journey.Api.styles.css
+/home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Api/obj/Debug/net8.0/Journey.Api.sourcelink.json
