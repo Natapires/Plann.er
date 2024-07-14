@@ -10,6 +10,6 @@ public class JourneyDbContext : DbContext
     
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlite("Data Source=../../../../RiderProjects/Journey/src/Journey.Infrastructure/JourneyDatabase.db");
+        optionsBuilder.UseSqlite("Data Source=/home/natapires/Documents/CursoRocketseat/Workspace/Journey/src/Journey.Infrastructure");
     }
 }
