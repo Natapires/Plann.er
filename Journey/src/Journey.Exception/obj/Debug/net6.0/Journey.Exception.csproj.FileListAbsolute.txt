@@ -1,0 +1,12 @@
+/home/natapires/Documents/workspace/Journey/src/Journey.Exception/bin/Debug/net6.0/Journey.Exception.deps.json
+/home/natapires/Documents/workspace/Journey/src/Journey.Exception/bin/Debug/net6.0/Journey.Exception.dll
+/home/natapires/Documents/workspace/Journey/src/Journey.Exception/bin/Debug/net6.0/ref/Journey.Exception.dll
+/home/natapires/Documents/workspace/Journey/src/Journey.Exception/bin/Debug/net6.0/Journey.Exception.pdb
+/home/natapires/Documents/workspace/Journey/src/Journey.Exception/obj/Debug/net6.0/Journey.Exception.csproj.AssemblyReference.cache
+/home/natapires/Documents/workspace/Journey/src/Journey.Exception/obj/Debug/net6.0/Journey.Exception.GeneratedMSBuildEditorConfig.editorconfig
+/home/natapires/Documents/workspace/Journey/src/Journey.Exception/obj/Debug/net6.0/Journey.Exception.AssemblyInfoInputs.cache
+/home/natapires/Documents/workspace/Journey/src/Journey.Exception/obj/Debug/net6.0/Journey.Exception.AssemblyInfo.cs
+/home/natapires/Documents/workspace/Journey/src/Journey.Exception/obj/Debug/net6.0/Journey.Exception.csproj.CoreCompileInputs.cache
+/home/natapires/Documents/workspace/Journey/src/Journey.Exception/obj/Debug/net6.0/Journey.Exception.dll
+/home/natapires/Documents/workspace/Journey/src/Journey.Exception/obj/Debug/net6.0/ref/Journey.Exception.dll
+/home/natapires/Documents/workspace/Journey/src/Journey.Exception/obj/Debug/net6.0/Journey.Exception.pdb

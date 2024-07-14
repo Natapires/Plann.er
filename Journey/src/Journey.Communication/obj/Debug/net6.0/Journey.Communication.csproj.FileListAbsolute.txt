@@ -1,0 +1,12 @@
+/home/natapires/Documents/workspace/Journey/src/Journey.Communication/bin/Debug/net6.0/Journey.Communication.deps.json
+/home/natapires/Documents/workspace/Journey/src/Journey.Communication/bin/Debug/net6.0/Journey.Communication.dll
+/home/natapires/Documents/workspace/Journey/src/Journey.Communication/bin/Debug/net6.0/ref/Journey.Communication.dll
+/home/natapires/Documents/workspace/Journey/src/Journey.Communication/bin/Debug/net6.0/Journey.Communication.pdb
+/home/natapires/Documents/workspace/Journey/src/Journey.Communication/obj/Debug/net6.0/Journey.Communication.csproj.AssemblyReference.cache
+/home/natapires/Documents/workspace/Journey/src/Journey.Communication/obj/Debug/net6.0/Journey.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/home/natapires/Documents/workspace/Journey/src/Journey.Communication/obj/Debug/net6.0/Journey.Communication.AssemblyInfoInputs.cache
+/home/natapires/Documents/workspace/Journey/src/Journey.Communication/obj/Debug/net6.0/Journey.Communication.AssemblyInfo.cs
+/home/natapires/Documents/workspace/Journey/src/Journey.Communication/obj/Debug/net6.0/Journey.Communication.csproj.CoreCompileInputs.cache
+/home/natapires/Documents/workspace/Journey/src/Journey.Communication/obj/Debug/net6.0/Journey.Communication.dll
+/home/natapires/Documents/workspace/Journey/src/Journey.Communication/obj/Debug/net6.0/ref/Journey.Communication.dll
+/home/natapires/Documents/workspace/Journey/src/Journey.Communication/obj/Debug/net6.0/Journey.Communication.pdb
